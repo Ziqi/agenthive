@@ -1,3 +1,7 @@
+> **AgentHive** is based on [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) (MIT License, Copyright (c) 2026 Fabio Akita). The original LICENSE and attribution are kept unchanged. Our work adds a connection layer for Grok Build across a Tailscale network, developed against upstream tag `v2.5.2` (commit `7580b74d`); this default branch currently mirrors upstream `main`. AgentHive is not affiliated with [polarpoint-io/agenthive](https://github.com/polarpoint-io/agenthive), [shaiknoorullah/agenthive](https://github.com/shaiknoorullah/agenthive), [facebookresearch/agenthive](https://github.com/facebookresearch/agenthive), or any other project of the same name.
+>
+> **AgentHive** 基于 [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)（MIT 许可，版权归 Fabio Akita，2026），原 LICENSE 与署名原样保留。我们只在其上为 Tailscale 组网里的 Grok Build 做连接层，开发基于上游 `v2.5.2`（commit `7580b74d`）；本默认分支目前与上游 `main` 一致。AgentHive 与 polarpoint-io/agenthive、shaiknoorullah/agenthive、facebookresearch/agenthive 等同名项目均无关。
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/logo-dark.png">
